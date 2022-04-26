@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/rpg-golden_katana"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/rpg-flame_katana"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/rpg-wind_katana"}
+  ]
+}

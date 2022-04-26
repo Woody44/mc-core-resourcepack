@@ -1,0 +1,180 @@
+{
+    "rpg.misc.heartbeat":{
+        "sounds":[
+            {
+                "name": "misc/rpg-heartbeat",
+                "volume": 2,
+                "pitch": 1.3,
+                "streaming": true
+            }
+        ]
+    },
+    "rpg.swing.sharp":{
+        "sounds":[
+            {
+                "name": "swing/sharp/rpg-swing_sharp_0",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/sharp/rpg-swing_sharp_1",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/sharp/rpg-swing_sharp_2",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/sharp/rpg-swing_sharp_3",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/sharp/rpg-swing_sharp_4",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/sharp/rpg-swing_sharp_5",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/sharp/rpg-swing_sharp_6",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            }
+        ]
+    },
+    "rpg.swing.small":{
+        "sounds":[
+            {
+                "name": "swing/small/rpg-swing_small_0",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/small/rpg-swing_small_1",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/small/rpg-swing_small_2",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/small/rpg-swing_small_3",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/small/rpg-swing_small_4",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/small/rpg-swing_small_5",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/small/rpg-swing_small_6",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            }
+        ]
+    },
+    "rpg.swing.big":{
+        "sounds":[
+            {
+                "name": "swing/big/rpg-swing_big_0",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/big/rpg-swing_big_1",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/big/rpg-swing_big_2",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/big/rpg-swing_big_3",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swing/big/rpg-swing_big_4",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            }
+        ]
+    },
+    "rpg.swap.metal":{
+        "sounds":[
+            {
+                "name": "swap/metal/rpg-swap_metal_0",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swap/metal/rpg-swap_metal_1",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            },
+            {
+                "name": "swap/metal/rpg-swap_metal_3",
+                "volume": 2,
+                "pitch": 1.1,
+                "streaming": true
+            }
+        ]
+    },
+    "rpg.ground-hit.metal":{
+        "sounds":[
+            {
+                "name": "ground-hit/rpg-ground-hit_metal_0",
+                "streaming": true
+            },
+            {
+                "name": "ground-hit/rpg-ground-hit_metal_1",
+                "streaming": true
+            }
+        ]
+    },
+    "entity.arrow.hit":{
+        "sounds":[
+            {
+                "name": "entity/arrow/hit",
+                "streaming": true
+            }
+        ]
+    }
+}
